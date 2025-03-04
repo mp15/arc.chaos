@@ -1,0 +1,10 @@
+Package: arc.chaos
+Title: Plots Genomic Rearrangments
+Version: 0.0.0.9000
+Authors@R: 
+    person("Martin", "Pollard", , "mp15@sanger.ac.uk", role = c("aut", "cre"))
+Description: Plots genomic rearrangments.
+License: use_gpl3_license()
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
